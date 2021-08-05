@@ -1,0 +1,161 @@
+{
+  "appName": {
+    "message": "Télécharger les images de 1688 Taobao Tmall",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Télécharge les images et vidéos des produits 1688, Taobao et Tmall en un click!", 
+    "description":"The description of the application, displayed in the web store."
+  },
+
+  "close": {
+    "message": "fermer"
+  },
+
+  "downloads": {
+    "message": "Télécharger"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+
+  "seeProTab": {
+    "message": "Voir section 'Pro'"
+  },
+
+  "downloadMainImagesButton": {
+    "message": "Images <b>principales</b>"
+  },
+  "downloadVariantsImagesButton": {
+    "message": "Images des <b>variations</b>"
+  },
+  "downloadDescImagesButton": {
+    "message": "Images de la <b>description</b>"
+  },
+  "downloadAllImagesButton": {
+    "message": "<b>Toutes</b> les images"
+  },
+  "downloadVideosButton": {
+    "message": "<b>Videos</b>"
+  },
+  "notAliPage": {
+    "message": "Cette page n'est pas une page produit 1688, Tmall ou Taobao. Veuillez ouvrir une page produit pour télécharger les images de celle-ci."
+  },
+  "downloadModalDownloading": {
+    "message": "Téléchargement..."
+  },
+  "downloadModalMessage": {
+    "message": "1TT télécharge automatiquement les images avec la meilleure qualité possible, le téléchargement peut prendre du temps."
+  },
+  
+  "settingsZip": {
+    "message": "Télécharger les images au format zip"
+  },
+  "settingsVideo": {
+    "message": "Téléchargement des videos"
+  },
+  "settingsInfoReload": {
+    "message": "Un rafraichissement de la page peut être nécessaire afin que les changements soient pris en compte."
+  },
+
+  "proTitle": {
+    "message": "Version pro"
+  },
+  "proActivatedTitle": {
+    "message": "Version pro activée!"
+  },
+  "proNowAccess": {
+    "message": "Vous avez <b>maintenant accès</b> à:"
+  },
+  "proFeatureVideo": {
+    "message": "Téléchargement des <b>vidéos</b>"
+  },
+  "proFeatureOneClick": {
+    "message": "<b>Toutes les images</b> en un click"
+  },
+  "proFeatureVariantsAndDesc": {
+    "message": "Téléchargement des <b>variations</b>"
+  },
+  "proFeatureRightClick": {
+    "message": "<b>Click droit</b> télécharger les images"
+  },
+  "proFeatureUnlimited": {
+    "message": "Téléchargements <b>illimités</b>"
+  },
+  "proFeatureQuality": {
+    "message": "La <b>meilleure qualité</b> d'images"
+  },
+  "proFeatureFuture": {
+    "message": "Toutes les mises à jour <b>premium</b>"
+  },
+  "proFeatureManyMore": {
+    "message": "Et <b>plus encore</b> à venir!"
+  },
+  "proPaymentInfo1": {
+    "message": "🔐Vous pourrez arrêter votre abonnement à tout moment"
+  },
+  "googlePaymentCenter": {
+    "message": "Google Payment Center"
+  },
+  "proPaymentInfo2": {
+    "message": "Nous utilisons Paddle™️ pour procéder au paiement, nous concervons aucune donnée de paiement."
+  },
+  "purchaseButton": {
+    "message": "Acheter"
+  },
+  "month": {
+    "message": "mois"
+  },
+  "manageSubscription": {
+    "message": "Gérer votre abonnement"
+  },
+  "signOut": {
+    "message": "Se déconnecter"
+  },
+  "signIn": {
+    "message": "Se connecter"
+  },
+  "refreshSubscription": {
+    "message": "Rafraichir votre abonnement"
+  },
+
+  "welcomePageTitle": {
+    "message": "Bienvenue !"
+  },
+  "welcomePageInstallSuccess": {
+    "message": "1TT Downloader à été installé avec <b>succès</b> !"
+  },
+  "welcomePageInfo": {
+    "message": "Vous pouvez maintenant télécharger <b>facilement</b> des images 1688, Taobao et Tmall avec la <b>meilleure qualité</b> possible!"
+  },
+  "welcomePageTuto": {
+    "message": "Pour savoir comment utiliser 1TT Downloader, vous pouvez regarder cette <b>courte vidéo</b>:"
+  },
+  "welcomePageReload": {
+    "message": "Si vous avez des pages 1688, Taobao ou Tmall actuellement ouvertes, n'oubliez pas de les rafraichir."
+  },
+  "welcomePageEnjoy": {
+    "message": "Enjoy! 👍"
+  },
+
+  "proPageSubtitle": {
+    "message": "Débloquez le <b>plein potentiel</b> de 1TT! 🚀"
+  },
+
+  "footerPromo": {
+    "message": "Les <b>meilleurs produits</b> AliExpress sont sur "
+  },
+  "footerContactUs": {
+    "message": "Nous contacter"
+  },
+  "footerRateUs": {
+    "message": "Nous noter:"
+  },
+
+  "help": {
+    "message": "Aide"
+  },
+  "needHelp": {
+    "message": "Besoin d'aide ?"
+  }
+}

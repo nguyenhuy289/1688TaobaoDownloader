@@ -1,0 +1,1 @@
+window.addEventListener("message",(function(e){console.log("message event listener",e),e.source==window&&e.data.type&&"SIGN_IN_SUCCESS"===e.data.type&&/https?:\/\/onett\.mxnpro\.*/.test(e.origin)&&chrome.runtime.sendMessage({type:"SIGN_IN_SUCCESS",data:e.data.data})}),!1);

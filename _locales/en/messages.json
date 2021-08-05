@@ -1,0 +1,162 @@
+{
+  "appName": {
+    "message": "Download images from 1688 Taobao Tmall",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Save images and videos from 1688, Taobao and Tmall in one click!", 
+    "description":"The description of the application, displayed in the web store."
+  },
+
+  "close": {
+    "message": "close"
+  },
+
+  "downloads": {
+    "message": "Tải về"
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+
+  "seeProTab": {
+    "message": "See 'Pro' tab"
+  },
+
+  "downloadMainImagesButton": {
+    "message": "Tải hình ảnh <b>chính</b>"
+  },
+  "downloadVariantsImagesButton": {
+    "message": "Tải hình ảnh <b>minh họa</b>"
+  },
+  "downloadDescImagesButton": {
+    "message": "Tải hình ảnh <b>mô tả</b>"
+  },
+  "downloadAllImagesButton": {
+    "message": "Tải <b>tất cả </b>hình ảnh"
+  },
+  "downloadVideosButton": {
+    "message": "Tải <b>videos</b>"
+  },
+  "notAliPage": {
+    "message": "Đây không phải trang web 1688, Tmall hoặc Taobao. Bạn cần phải mở trang sản phẩm để bắt đầu tải."
+  },
+  "downloadModalMessage": {
+    "message": "Extension download images with the highest quality possible, it can takes some times to download images."
+  },
+  "downloadModalDownloading": {
+    "message": "Đang tải..."
+  },
+  
+  "settingsZip": {
+    "message": "Tải toàn bộ hình ảnh bằng file nén zip"
+  },
+
+  "settingsVideo": {
+    "message": "Enable video download"
+  },
+  "settingsInfoReload": {
+    "message": "A reload of the current 1688, Tmall or Taobao pages may be necessary to see settings updates."
+  },
+
+  "proTitle": {
+    "message": "Phiên bản Premium"
+  },
+  "proActivatedTitle": {
+    "message": "Premium version activated!"
+  },
+  "proNowAccess": {
+    "message": "You <b>now have access</b> to:"
+  },
+  "proFeatureVideo": {
+    "message": "Download <b>videos</b>"
+  },
+  "proFeatureOneClick": {
+    "message": "Download <b>tất cả hình ảnh</b> trong 1 nhấp chuột"
+  },
+  "proFeatureVariantsAndDesc": {
+    "message": "Download nhiều hình ảnh <b>mô tả</b>"
+  },
+  "proFeatureRightClick": {
+    "message": "<b>Right click</b> on images to download"
+  },
+  "proFeatureUnlimited": {
+    "message": "<b>Không giới hạn</b> download"
+  },
+  "proFeatureQuality": {
+    "message": "<b>Hình ảnh chất lượng nhất</b> có thể"
+  },
+  "proFeatureFuture": {
+    "message": "Được hỗ trợ 24/7"
+  },
+  "proFeatureManyMore": {
+    "message": "Many <b>more</b> to come!"
+  },
+  "proPaymentInfo1": {
+    "message": "🔐Sự ủng hộ của bạn là động lực cho chúng tôi phát triển nhiều ứng dụng vì cộng đồng hơn nữa"
+  },
+  "googlePaymentCenter": {
+    "message": "Google Payment Center"
+  },
+  "proPaymentInfo2": {
+    "message": "We use Paddle™️ to process purchases and do not know your card details."
+  },
+  "purchaseButton": {
+    "message": "Ủng hộ tôi"
+  },
+  "month": {
+    "message": "month"
+  },
+  "manageSubscription": {
+    "message": "Manage subscription"
+  },
+  "signOut": {
+    "message": "Sign out"
+  },
+  "signIn": {
+    "message": "Sign in"
+  },
+  "refreshSubscription": {
+    "message": "Refresh subscription"
+  },
+
+  "welcomePageTitle": {
+    "message": "Xin chào!"
+  },
+  "welcomePageInstallSuccess": {
+    "message": "Extension Downloader has been installed <b>successfully</b>!"
+  },
+  "welcomePageInfo": {
+    "message": "Now, you can <b>easly</b> download images from 1688, Taobao and Tmall with the <b>best quality</b> possible!"
+  },
+  "welcomePageTuto": {
+    "message": "To get started, you can take a look at this <b>quick tutorial</b>:"
+  },
+  "welcomePageReload": {
+    "message": "If any, do not forget to <b>reload</b> your current 1688, Taobao and Tmall pages"
+  },
+  "welcomePageEnjoy": {
+    "message": "Enjoy! 👍"
+  },
+
+  "proPageSubtitle": {
+    "message": ""
+  },
+
+  "footerPromo": {
+    "message": "The <b>best</b> AliExpress products are on"
+  },
+  "footerContactUs": {
+    "message": "Liên hệ tôi"
+  },
+  "footerRateUs": {
+    "message": "Rate us:"
+  },
+
+  "help": {
+    "message": "Help"
+  },
+  "needHelp": {
+    "message": "Need help?"
+  }
+}
